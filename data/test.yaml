@@ -1,0 +1,8 @@
+workInfo:
+  workerId: 123456
+  pad_pwd: 123456
+memberInfo:
+  memberId: 123456
+  crm_pwd: 123456
+  phone: 123456
+  verifyCode: 123456

@@ -1,0 +1,20 @@
+2023-08-17 17:15:49,682 - test_demo.py - test01 - 11- INFO: testqsgou  1 == 1
+2023-08-17 17:15:49,691 - test_demo.py - test02 - 15- INFO: testqsgou  1 == 1
+2023-08-17 17:15:51,064 - test_demo.py - test03 - 19- INFO: testqsgou  1 == 3
+2023-08-17 17:16:08,447 - test_wifi.py - test_add_manually_success - 28- INFO: 在wifi页点击手动添加按钮
+2023-08-17 17:16:14,182 - test_wifi.py - test_add_manually_success - 30- INFO: 选择 WPA/WPA2 PSK 
+2023-08-17 17:16:31,013 - test_wifi.py - test_add_manually_success - 35- INFO: 点击立即连接按钮
+2023-08-17 17:16:36,743 - test_wifi.py - test_add_manually_success - 37- INFO: 断言连接状态
+2023-08-17 17:16:37,056 - test_wifi.py - test_add_manually_success - 28- INFO: 在wifi页点击手动添加按钮
+2023-08-17 17:16:42,769 - test_wifi.py - test_add_manually_success - 30- INFO: 选择 WPA/WPA2 PSK 
+2023-08-17 17:17:00,367 - test_wifi.py - test_add_manually_success - 35- INFO: 点击立即连接按钮
+2023-08-17 17:17:06,126 - test_wifi.py - test_add_manually_success - 37- INFO: 断言连接状态
+2023-08-17 17:17:06,679 - test_wifi.py - test_add_manually_fail - 42- INFO: 在wifi页点击手动添加按钮
+2023-08-17 17:17:12,431 - test_wifi.py - test_add_manually_fail - 44- INFO: 选择 WPA/WPA2 PSK 
+2023-08-17 17:17:29,277 - test_wifi.py - test_add_manually_fail - 48- INFO: 点击立即连接按钮
+2023-08-17 17:17:35,014 - test_wifi.py - test_add_manually_fail - 50- INFO: 断言连接状态
+2023-08-17 17:17:54,157 - test_wifi.py - test_add_manually_fail - 42- INFO: 在wifi页点击手动添加按钮
+2023-08-17 17:18:01,350 - test_wifi.py - test_add_manually_fail - 44- INFO: 选择 WPA/WPA2 PSK 
+2023-08-17 17:18:18,023 - test_wifi.py - test_add_manually_fail - 48- INFO: 点击立即连接按钮
+2023-08-17 17:18:23,721 - test_wifi.py - test_add_manually_fail - 50- INFO: 断言连接状态
+2023-08-17 17:18:56,522 - test_wifi.py - test_wifi_page_element - 60- INFO: 测试日志
